@@ -146,16 +146,16 @@
             #endregion
 
             #region V7
-            Employee[] employees = new Employee[3]
-            {
-                new Employee { Id = 1, Name = "Ahmed", Age = 30, Salary = 12000 },
-                new Employee { Id = 2, Name = "Omar", Age = 27, Salary = 11000 },
-                new Employee { Id = 3, Name = "Amr", Age = 28, Salary = 13000 }
-            };
+            //Employee[] employees = new Employee[3]
+            //{
+            //    new Employee { Id = 1, Name = "Ahmed", Age = 30, Salary = 12000 },
+            //    new Employee { Id = 2, Name = "Omar", Age = 27, Salary = 11000 },
+            //    new Employee { Id = 3, Name = "Amr", Age = 28, Salary = 13000 }
+            //};
            /* Array.Sort(employees);*/ // Sort by Salary  
 
             //int result = employees[1].CompareTo(employees[2]);    
-   
+   ///hhhhhhhhhhhh
             #endregion
         }
         #region V 8
